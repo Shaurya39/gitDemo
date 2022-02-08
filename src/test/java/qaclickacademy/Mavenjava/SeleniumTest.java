@@ -14,6 +14,9 @@ public class SeleniumTest {
 	public void elementsui()
 	{
 		System.out.println("wow");
+		System.out.println("wow");
+		System.out.println("wow");
+		System.out.println("wow");
 	}
 
 }
