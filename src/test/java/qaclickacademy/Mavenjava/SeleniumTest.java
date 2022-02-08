@@ -11,6 +11,13 @@ public class SeleniumTest {
 		System.out.println("checking....");
 		System.out.println("checking....");
 	}
+	@Test
+	public void BrowserAutomations()
+	{
+		System.out.println("checking....");
+		System.out.println("checking....");
+		System.out.println("checking....");
+	}
 	
 	@Test
 	public void elementsui()

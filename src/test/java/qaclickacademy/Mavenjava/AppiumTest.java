@@ -8,5 +8,6 @@ public class AppiumTest {
 	public void abc()
 	{
 		System.out.println("checking xml");
+		System.out.println("checking xml");
 	}
 }
