@@ -9,4 +9,8 @@ public class AppiumTest {
 	{
 		System.out.println("checking xml");
 	}
+	public void abc1()
+	{
+		System.out.println("checking xml");
+	}
 }
