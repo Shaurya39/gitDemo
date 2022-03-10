@@ -20,5 +20,13 @@ public class SeleniumTest {
 		System.out.println("wow");
 		System.out.println("wow");
 	}
+	@Test
+	public void elementsui1()
+	{
+		System.out.println("wow");
+		System.out.println("wow");
+		System.out.println("wow");
+		System.out.println("wow");
+	}
 
 }
