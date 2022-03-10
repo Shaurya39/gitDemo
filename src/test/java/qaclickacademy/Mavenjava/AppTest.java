@@ -14,5 +14,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("oplk");
+        System.out.println("oplk");
+        System.out.println("oplk");
     }
 }
